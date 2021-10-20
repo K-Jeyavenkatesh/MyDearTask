@@ -153,7 +153,7 @@ public class Loginpage {
 				} else {
 					String title = "Regarding Forget PIN - MyDearTask";
 					String message = "Your PIN is "+r;
-					new Gmail().Gmail("19euit065@skcet.ac.in", t, "19euit065JeyaVenkateshK19euit065", title, message);
+					new Gmail().Gmail("19euit065@skcet.ac.in", t, "***password***", title, message);
 				}
 			}
 		});
